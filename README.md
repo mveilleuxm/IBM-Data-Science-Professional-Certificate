@@ -14,13 +14,13 @@ This repository contains documentation and resources used to complete the certif
 - [01. What is Data Science?]
 - [02. Tools for Data Science]
 - [03. Data Science Methodology]
-- :white_check_mark: [04. Python for Data Science, AI & Development]
-- :white_check_mark: [05. Python Project for Data Science]
-- :white_check_mark: [06. Databases and SQL for Data Science with Python]
-- :white_check_mark: [07. Data Analysis with Python]
-- :white_check_mark: [08. Data Visualization with Python]
-- :white_check_mark: [09. Machine Learning with Python]
-- :white_check_mark: [10. Applied Data Science Capstone]
+- [04. Python for Data Science, AI & Development]
+- [05. Python Project for Data Science]
+- [06. Databases and SQL for Data Science with Python]
+- [07. Data Analysis with Python]
+- [08. Data Visualization with Python]
+- [09. Machine Learning with Python]
+- [10. Applied Data Science Capstone]
 
 ## 🛠️ Tools
 The following tools were used to complete this certification: <br> <br>
